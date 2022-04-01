@@ -1,6 +1,6 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx (all members of the team)
+### First and Last Name: Stratos Aggelos Andreas (all members of the team)
 ### University Registration Number: dpsdxxxxx (all members of the team)
 ### GitHub Personal Profile: xxx
 
