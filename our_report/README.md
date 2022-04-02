@@ -1,7 +1,7 @@
 # Lesson: Interaction Design
 
-### First and Last Name: Stratos Aggelos Andreas (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
+### First and Last Name: Efstratios Koutoulakis | Michail - Angelos Sotirchos | Andreas Birbilis 
+### University Registration Number: dpsd19061 | dpsd19125 | dpsd19080
 ### GitHub Personal Profile: xxx
 
 # Introduction
