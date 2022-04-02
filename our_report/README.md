@@ -60,6 +60,22 @@
 
 ### TECHNOLOGIES
 
+**Input**
+
+--> MuAhahahahahhaha
+
+**Output**
+
+--> MuAhahahahahhaha
+
+**Communication**
+
+--> MuAhahahahahhaha
+
+**Content**
+
+--> MuAhahahahahhaha
+
 # 2nd Deliverable
 
 
