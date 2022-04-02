@@ -27,6 +27,14 @@
 
 --> Χρόνος ανταπόκρισης: Μικρός
 
+**Complexity**
+
+--> lalalalala
+
+**Cooperative features**
+
+--> lalalalala
+
 ### CONTEXT
 **Physical Context**
 
@@ -46,7 +54,7 @@
 
 **Amount and type of support for activities**
 
---> hahahahahhaha
+--> MuAhahahahahhaha
 
 ### TECHNOLOGIES
 
