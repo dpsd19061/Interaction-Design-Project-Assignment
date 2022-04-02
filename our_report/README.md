@@ -10,7 +10,15 @@
 
 
 # 1st Deliverable
+### DESIGN BRIEF
 
+### PEOPLE
+
+### ACTIVITIES
+
+### CONTEXT
+
+### TECHNOLOGIES
 
 # 2nd Deliverable
 
