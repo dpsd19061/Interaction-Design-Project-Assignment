@@ -133,6 +133,21 @@
 
 # 3rd Deliverable 
 
+## VI. SCENARIOS AND STORYBOARDING
+
+## VII. PROTOTYPING
+
+### Μικρή Εισαγωγή
+
+### Περιγραφή Του Κυκλώματος
+
+### Περιγραφή Του Κώδικα
+
+### Περιγραφή Tης Εφαρμογής: Straggleas Controller
+
+### Λίγα Λόγια για τον Σκελετό
+
+### Λίγα Λόγια για το Εξωτερικό Κέλυφος
 
 # Conclusions
 
