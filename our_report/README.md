@@ -2,7 +2,9 @@
 
 ### First and Last Name: Efstratios Koutoulakis | Michail - Angelos Sotirchos | Andreas Birbilis 
 ### University Registration Number: dpsd19061 | dpsd19125 | dpsd19080
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: [dpsd19061](https://github.com/dpsd19061)
+### GitHub Personal Profile: [dpsd19125](https://github.com/MichailAngelosSotirchos)
+### GitHub Personal Profile: [dpsd19080](https://github.com/dpsd19080)
 
 # Introduction
 
