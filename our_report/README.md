@@ -135,20 +135,35 @@
 
 ## VI. SCENARIOS AND STORYBOARDING
 
+**--> Texto**
+
 ![ScreenShot](s1.JPG)
 
-<img src="s2.1.jpg" width="450">
-<img src="s2.2.jpg" width="450">
+**--> Texto**
+
+<img src="s2.1.jpg" width="450"><img src="s2.2.jpg" width="450">
+
+**--> Texto**
 
 <img src="s3.jpg" width="450">
 
+**--> Texto**
+
 ![ScreenShot](s4.JPG)
+
+**--> Texto**
 
 ![ScreenShot](s5.JPG)
 
+**--> Texto**
+
 ![ScreenShot](s6.JPG)
 
+**--> Texto**
+
 <img src="s7.jpg" width="450">
+
+**--> Texto**
 
 ![ScreenShot](s8.JPG)
 
