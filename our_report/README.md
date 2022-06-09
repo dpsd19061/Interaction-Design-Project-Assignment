@@ -135,6 +135,23 @@
 
 ## VI. SCENARIOS AND STORYBOARDING
 
+![ScreenShot](s1.JPG)
+
+![ScreenShot](s2.1.JPG)
+![ScreenShot](s2.2.JPG)
+
+![ScreenShot](s3.JPG)
+
+![ScreenShot](s4.JPG)
+
+![ScreenShot](s5.JPG)
+
+![ScreenShot](s6.JPG)
+
+![ScreenShot](s7.JPG)
+
+![ScreenShot](s8.JPG)
+
 ## VII. PROTOTYPING
 
 ### Μικρή Εισαγωγή
