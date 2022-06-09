@@ -218,15 +218,27 @@ analogueWrite(fr_pwm,pF)).
 
 --> Ο εσωτερικός σκελετός σχεδιάστηκε συνεργατικά από όλη την ομάδα με το παραμετρικό πρόγραμμα Creo και εκτυπώθηκε σε 3D εκτυπωτή.
 
-![ScreenShot](kikloma.jpg)
+![ScreenShot](scel0.jpg)
 
-![ScreenShot](scel1.jpg)
+![ScreenShot](scel1.JPG)
 
-![ScreenShot](scel2.jpg)
+![ScreenShot](scel2.JPG)
 
-![ScreenShot](scel3.jpg)
+![ScreenShot](scel3.JPG)
 
 ### Λίγα Λόγια για το Εξωτερικό Κέλυφος
+
+--> Ο εσωτερικός σκελετός σχεδιάστηκε με το Blender και επίσης εκτυπώθηκε σε 3D εκτυπωτή.
+
+![ScreenShot](sxed.jpg)
+
+![ScreenShot](kel1.JPG)
+
+![ScreenShot](kel2.JPG)
+
+![ScreenShot](kel3.JPG)
+
+![ScreenShot](kel4.JPG)
 
 # Conclusions
 
