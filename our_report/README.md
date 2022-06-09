@@ -137,12 +137,10 @@
 
 ![ScreenShot](s1.JPG)
 
-<img src="s2.1.jpg" width="100">
+<img src="s2.1.jpg" width="450">
+<img src="s2.2.jpg" width="450">
 
-![ScreenShot](s2.1.jpg)
-![ScreenShot](s2.2.jpg)
-
-![ScreenShot](s3.jpg)
+<img src="s3.jpg" width="450">
 
 ![ScreenShot](s4.JPG)
 
@@ -150,7 +148,7 @@
 
 ![ScreenShot](s6.JPG)
 
-![ScreenShot](s7.jpg)
+<img src="s7.jpg" width="450">
 
 ![ScreenShot](s8.JPG)
 
