@@ -6,8 +6,11 @@
 
 # Introduction
 
+--> Ομαδική εργασία για το μάθημα Διαδραστική Σχεδίαση που αφορά την ανάπτυξη εφαρμογών με Arduino
+
 # Summary
 
+--> Σε αυτή τη γραπτή αναφορά έχει σημειωθεί όλη η πρόοδος της εργασίας ή οποία χωρίζεται σε τρία παραδοτέα (deliverables) τα οποία αφορόυν την κατασκευή ενός interactive αντικειμένου χρησιμοπoιώντας το Arduino. Παρακάτω αναλύεται το Design Brief, η έρευνα PACT, το information arcitecture, το user interaction, το interface design, ενα σενάριο χρήσης και τέλος παρατίθεται το ολοκληρωμένο πρωτότυπο που κατασκευάστηκε από την ομάδα.
 
 # 1st Deliverable
 ## I. DESIGN BRIEF
@@ -275,4 +278,13 @@ analogueWrite(fr_pwm,pF)).
 # Conclusions
 
 
+
 # Sources
+
+--> Απο [εδω](https://create.arduino.cc/projecthub/electronicprojects/dc-motor-speed-control-using-arduino-0e5b2b) μαθαμε πως να ελεγγουμε τα μοτερ με τα motor driver
+
+--> Απο [εδω](https://create.arduino.cc/projecthub/arcaegecengiz/how-to-use-servo-motors-with-arduino-b02bed) μαθαμε να ελεγχουμε το Servo
+
+--> Το [datasheet](https://components101.com/wireless/hc-06-bluetooth-module-pinout-datasheet) για το Βluetooth module.
+
+--> Από [εδώ](https://create.arduino.cc/projecthub/vidyadharjogi/bluetooth-android-app-controlled-robot-car-b9b576) βρηκαμε πως να συνδεσουμε το bluetooth με την εφαρμογή.
